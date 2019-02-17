@@ -21,7 +21,7 @@ else if(a === b || b === c || c === a) {
 alert("Isosceles Triangle!")
 }
 else {
-alert("Not a Triangle")
+alert("Not a Triangle!")
 }
 
 }
