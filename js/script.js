@@ -12,16 +12,16 @@ function triangle() {
 }
 function side(a,b,c) {
 if(a === b && b === c && c === a) {
-alert("equilateral triangle")
+alert("Equilateral Triangle!")
 }
 else if (a + b > c && b + c > a && c + a > b) {
-alert("scalene triangle")
+alert("Scalene Triangle")
 }
 else if(a === b || b === c || c === a) {
-alert("isosceles triangle")
+alert("Isosceles Triangle")
 }
 else {
-alert("not a triangle")
+alert("Not a Triangle")
 }
 
 }
