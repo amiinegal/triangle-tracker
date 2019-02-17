@@ -22,7 +22,7 @@ Website Specifications
 5.The website will display a A Scalene Triangle message if all values entered are different and the sum of any two sides is greater than the 3rd side.
 
 KNOWN BUGS;
-There are no known bugs in this project. If you have any issues or have questions, ideas or concerns, contact me at
+There are no known bugs in this project. If you have any issues or have questions, ideas or concerns, contact me at https://amiinegal.github.io/triangle-tracker/
 
 Technologies Used;
 
