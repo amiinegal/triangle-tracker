@@ -29,3 +29,6 @@ alert("not a triangle")
  function reset() {
    location.reload();
 }
+function submit() {
+  location.reload();
+}
