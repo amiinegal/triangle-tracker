@@ -18,7 +18,7 @@ else if (a + b > c && b + c > a && c + a > b) {
 alert("Scalene Triangle!")
 }
 else if(a === b || b === c || c === a) {
-alert("Isosceles Triangle")
+alert("Isosceles Triangle!")
 }
 else {
 alert("Not a Triangle")
