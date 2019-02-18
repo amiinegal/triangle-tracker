@@ -14,7 +14,7 @@ function side(a,b,c) {
 if(a === b && b === c && c === a) {
 alert("Equilateral Triangle!")
 }
-else if (a + b > c && b + c > a && c + a > b) {
+else if (a !==b && b !== c && c !== a) {
 alert("Scalene Triangle!")
 }
 else if(a === b || b === c || c === a) {
