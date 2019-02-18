@@ -1,14 +1,14 @@
-#Triangle Tracker
+# Triangle Tracker
 
-##Description;
+## Description;
 
 The triangle tracker web page allows user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle or if the sides cannot make a triangle at all.
 
-###AUTHOR'S NAME;
+### AUTHOR'S NAME;
     Amin adan egal.
 
 
-#Behavior Driven Development
+# Behavior Driven Development
 Website Specifications
 
 1.An invalid input message is displayed if the length of any side (a,b or c) is not entered.
@@ -21,10 +21,10 @@ Website Specifications
 
 5.The website will display a A Scalene Triangle message if all values entered are different and the sum of any two sides is greater than the 3rd side.
 
-#KNOWN BUGS;
+# KNOWN BUGS;
 There are no known bugs in this project. If you have any issues or have questions, ideas or concerns, contact me at https://amiinegal.github.io/triangle-tracker/
 
-##Technologies Used;
+## Technologies Used;
 
     JavaScript
     Hyper Text Markup Language
@@ -43,4 +43,4 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-##Copyright (c) {2019} {Amin adan egal}
+## Copyright (c) {2019} {Amin adan egal}
